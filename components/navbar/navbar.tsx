@@ -53,7 +53,7 @@ export const NavbarWrapper = ({ children }: Props) => {
           </div>
 
           <Link
-            href="https://github.com/Siumauricio/next-dashboard"
+            href="https://github.com/proxy-o/next-dashboard"
             target={"_blank"}
           >
             <GithubIcon />
