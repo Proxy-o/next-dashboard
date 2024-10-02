@@ -3,7 +3,7 @@ This is a template for NextJS and NextUI.
 [NextJS](https://nextjs.org/)
 [NextUI](https://nextui.org/)
 
-You can see the demo here: https://nextui-dashboard-template.vercel.app/
+You can see the demo here: https://next-dashboard.vercel.app/
 
 ### Dark Mode
 
